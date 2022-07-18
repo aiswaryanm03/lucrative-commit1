@@ -11,5 +11,29 @@ public class AishwaryaTest {
 		System.out.println("Again done changes");
 		System.out.println("removed some methods......");
 	}
-	
+	@Test
+	public void Hai()
+	{
+		System.out.println("Hai");
+		System.out.println("bye");
+	}
+	@Test
+	public void Hello()
+	{
+		System.out.println("Hello");
+		System.out.println("see you");
+	}
+
+	public void RunTwo()
+	{
+		System.out.println("second run method");
+		System.out.println("Third changes");
+	}
+	@Test
+	public void RunTwo2()
+	{
+		System.out.println("second run method");
+		System.out.println("Third changes...");
+	}
+
 }
