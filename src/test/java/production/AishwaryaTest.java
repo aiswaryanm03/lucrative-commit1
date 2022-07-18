@@ -21,10 +21,6 @@ public class AishwaryaTest {
 		System.out.println("Third changes");
 
 	}
-
-	
-
-
 	@Test
 	public void RunTwo2()
 	{
@@ -34,7 +30,14 @@ public class AishwaryaTest {
 	@Test
 	public void RunThree3()
 	{
-		System.out.println("run three method..");
+		System.out.println("run three method....");
+
+	}
+	
+	@Test
+	public void ConflictCheck()
+	{
+		System.out.println("check for the conflicts");
 
 	}
 
