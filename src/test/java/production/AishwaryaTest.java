@@ -12,11 +12,13 @@ public class AishwaryaTest {
 	public void Hai()
 	{
 		System.out.println("Hai");
+		System.out.println("bye");
 	}
 	@Test
 	public void Hello()
 	{
 		System.out.println("Hello");
+		System.out.println("see you");
 	}
 
 	public void RunTwo()
