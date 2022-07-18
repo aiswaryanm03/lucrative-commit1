@@ -15,6 +15,11 @@ public class AishwaryaTest {
 	{
 		System.out.println("Hai");
 	}
+	@Test
+	public void Hello()
+	{
+		System.out.println("Hello");
+	}
 
 	public void RunTwo()
 	{
