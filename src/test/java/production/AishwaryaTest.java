@@ -4,8 +4,9 @@ import org.testng.annotations.Test;
 
 public class AishwaryaTest {
 	@Test
-	public void Run()
+	public void runTest()
 	{
+
 		System.out.println("i aded a run class in production pakage........ ");
 		System.out.println("hi");
 		System.out.println("hello..");
@@ -13,8 +14,13 @@ public class AishwaryaTest {
 	public void RunAgain()
 	{
 		System.out.println("hi ");
+
 		System.out.println("hello.. ");
-		
+
+		System.out.println("hi from aish");
+
+		System.out.println("bye");
+
 	}
 
 }
