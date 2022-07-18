@@ -8,7 +8,7 @@ public class CampaignsTest {
 	{
 		System.out.println("Create Campaign");
 	}
-	@Test
+	@Test 
 	public void addContact()
 	{
 		System.out.println("Contact added");
