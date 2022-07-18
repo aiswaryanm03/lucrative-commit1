@@ -10,5 +10,10 @@ public class AishwaryaTest {
 		System.out.println("hi");
 		System.out.println("hello..");
 	}
+	public void RunAgain()
+	{
+		System.out.println("hi ");
+		
+	}
 
 }
