@@ -12,6 +12,12 @@ public class AishwaryaTest {
 	public void RunTwo()
 	{
 		System.out.println("second run method");
+		System.out.println("Third changes");
 	}
-
+	@Test
+	public void RunTwo2()
+	{
+		System.out.println("second run method");
+		System.out.println("Third changes");
+	}
 }
