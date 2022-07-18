@@ -20,4 +20,9 @@ public class AishwaryaTest {
 		System.out.println("second run method");
 		System.out.println("Third changes");
 	}
+	@Test
+	public void RunThree3()
+	{
+		System.out.println("run three method");
+	}
 }
