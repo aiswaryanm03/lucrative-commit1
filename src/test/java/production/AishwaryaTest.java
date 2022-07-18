@@ -8,5 +8,10 @@ public class AishwaryaTest {
 	{
 		System.out.println("i aded a run class in production pakage ");
 	}
+	@Test
+	public void Hai()
+	{
+		System.out.println("Hai");
+	}
 
 }
