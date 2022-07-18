@@ -8,6 +8,7 @@ public class AishwaryaTest {
 	{
 		System.out.println("i aded a run class in production pakage ");
 		System.out.println("Ayush done Changes..");
+		System.out.println("Again done changes");
 	}
 	@Test
 	public void RunTwo()
@@ -19,6 +20,7 @@ public class AishwaryaTest {
 
 		System.out.println("Ayush done changes.");
 		System.out.println("Third changes");
+		System.out.println("again done conflict changes");
 
 	}
 	@Test
@@ -26,11 +28,13 @@ public class AishwaryaTest {
 	{
 		System.out.println("second run method");
 		System.out.println("Third changes");
+		System.out.println("again done chamges");
 	}
 	@Test
 	public void RunThree3()
 	{
-		System.out.println("run three method....");
+
+		System.out.println("run three method.....");
 
 	}
 	
@@ -38,6 +42,13 @@ public class AishwaryaTest {
 	public void ConflictCheck()
 	{
 		System.out.println("check for the conflicts");
+
+
+		System.out.println("run three method");
+		System.out.println("again done changes");
+
+		System.out.println("run three method..");
+//>>>>>>> branch 'master' of https://github.com/aiswaryanm03/lucrative-commit1.git
 
 	}
 
