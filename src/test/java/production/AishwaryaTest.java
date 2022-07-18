@@ -11,6 +11,11 @@ public class AishwaryaTest {
 		System.out.println("Again done changes");
 	}
 	@Test
+	public void Hai()
+	{
+		System.out.println("Hai");
+	}
+
 	public void RunTwo()
 	{
 
