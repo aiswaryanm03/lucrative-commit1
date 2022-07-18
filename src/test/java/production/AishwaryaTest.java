@@ -13,6 +13,9 @@ public class AishwaryaTest {
 	@Test
 	public void RunTwo()
 	{
+
+		System.out.println("second run method..");
+
 		System.out.println("second run method");
 
 		System.out.println("Ayush done changes.");
@@ -34,8 +37,12 @@ public class AishwaryaTest {
 	@Test
 	public void RunThree3()
 	{
+
 		System.out.println("run three method");
 		System.out.println("again done changes");
+
+		System.out.println("run three method..");
+
 	}
 
 }
