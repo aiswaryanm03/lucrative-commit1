@@ -30,6 +30,9 @@ public class AishwaryaTest {
 		System.out.println("bye");
 		System.out.println("for jenkins");
 
+		System.out.println("to run in jenkins");
+
+
 	}
 
 }
