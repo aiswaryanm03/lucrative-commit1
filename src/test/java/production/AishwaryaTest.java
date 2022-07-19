@@ -16,6 +16,7 @@ public class AishwaryaTest {
 		
 		
 	}
+	@Test
 	public void RunAgain()
 	{
 		System.out.println("hi ");
