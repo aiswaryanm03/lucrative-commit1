@@ -13,6 +13,7 @@ public class AishwaryaTest {
 		System.out.println("hi");
 		System.out.println("hello..");
 		System.out.println("test runned by ayush ");
+		System.out.println("LALALA");
 		
 		
 	}
@@ -22,6 +23,7 @@ public class AishwaryaTest {
 		System.out.println("hi from aish");
 		System.out.println("hello from aish");
 		System.out.println("jai ho bhole-Ayush");
+		System.out.println("BHOLE BABA KI JAI");
 
 	}
 
