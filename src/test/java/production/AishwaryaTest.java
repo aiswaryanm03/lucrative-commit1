@@ -28,7 +28,8 @@ public class AishwaryaTest {
 		System.out.println("hello from aish");
 		System.out.println("jai ho bhole-Ayush");
 		System.out.println("bye");
-System.out.println("lohri");
+		System.out.println("to run in jenkins")
+
 
 	}
 
