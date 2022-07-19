@@ -4,32 +4,14 @@ import org.testng.annotations.Test;
 
 public class AishwaryaTest {
 	@Test
-	public void runTest()
+	public void Run()
 	{
-
-		System.out.println("run test running");
-
-		System.out.println("i aded a run class in production pakage........ ");
-		System.out.println("hi");
-		System.out.println("hello..");
-		System.out.println("test runned by ayush");
-		
-		
-	}
-	@Test
-	public void RunAgain()
-	{
+		String Browser=System.getProperty("browser");
+		System.out.println(Browser);
+		String Url=System.getProperty("url");
+		System.out.println(Url);
 		System.out.println("hi ");
 		System.out.println("hi from aish");
-
-		System.out.println("hello from aish...");
-		System.out.println("hai....");
-
-		System.out.println("hello from aish");
-		System.out.println("jai ho bhole-Ayush");
-		System.out.println("bye");
-		System.out.println("for jenkins");
-
 		System.out.println("to run in jenkins");
 
 
